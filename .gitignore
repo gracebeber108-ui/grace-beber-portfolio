@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+.DS_Store
+*.pem
+.env*.local
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+.taste-skill/
+.agents/
+skills-lock.json
+LinkedIn_Profile.pdf
